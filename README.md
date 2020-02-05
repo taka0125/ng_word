@@ -1,5 +1,8 @@
 # NgWord
 
+[![Latest Version](https://img.shields.io/gem/v/ng_word.svg)](https://rubygems.org/gems/ng_word)
+[![Build Status](https://github.com/taka0125/ng_word/workflows/Ruby/badge.svg)](https://github.com/taka0125/ng_word/actions)
+
 Verify NG words.
 
 ## Installation
